@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- 1) -->
-<ExtensionManifest ExtensionBundleId="com.Adobe.colorReplace" ExtensionBundleVersion="1.0.0" Version="6.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ExtensionManifest ExtensionBundleId="com.wuyax.colorReplace" ExtensionBundleVersion="1.0.0" Version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ExtensionList>
     <!-- 2) -->
-    <Extension Id="com.Adobe.colorReplace.panel" Version="1.0.0" />
+    <Extension Id="com.wuyax.colorReplace.panel" Version="1.0.0" />
   </ExtensionList>
   <ExecutionEnvironment>
     <HostList>
@@ -15,12 +15,12 @@
       <Locale Code="All" />
     </LocaleList>
     <RequiredRuntimeList>
-      <RequiredRuntime Name="CSXS" Version="6.0" />
+      <RequiredRuntime Name="CSXS" Version="9.0" />
     </RequiredRuntimeList>
   </ExecutionEnvironment>
   <DispatchInfoList>
     <!-- 2) -->
-    <Extension Id="com.Adobe.colorReplace.panel">
+    <Extension Id="com.wuyax.colorReplace.panel">
       <DispatchInfo>
         <Resources>
           <!-- 4) -->

@@ -5,7 +5,7 @@
         <HostList>
 
             <!-- 2 -->
-            <Host Name="PHXS" Port="8088"/>
+            <!-- <Host Name="PHXS" Port="8088"/> -->
             <Host Name="PHSP" Port="8088"/>
 
         </HostList>
